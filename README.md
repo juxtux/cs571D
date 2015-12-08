@@ -7,6 +7,6 @@ FOLDERS:
   3. Clustering: IDEM than SVM.
 
 FILES:
-  paper.pdf   : Final report about the scikit-review.
-  poster.pdf  : Poster used in Machine Learning class Fall 2015, Duke University.
+  1. paper.pdf   : Final report about the scikit-review.
+  2. poster.pdf  : Poster used in Machine Learning class Fall 2015, Duke University.
 Copyright Jorge Monardes
