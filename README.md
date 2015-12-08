@@ -11,4 +11,4 @@ FILES:
   2. poster.pdf  : Poster used in Machine Learning class Fall 2015, Duke University.
 
 
-Copyright Jorge Monardes
+Copyright Jorge Monardes (jorge.monardes@duke.edu)
